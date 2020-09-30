@@ -6,6 +6,7 @@ const FILES_TO_CACHE = [
   "/icons/icon-192x192.png",
   "/icons/icon-512x512.png",
   "/style.css",
+  "/indexedDb.js",
 ];
 
 const STATIC_CACHE = "static-cache-v1";
