@@ -34,7 +34,9 @@ THEN that will be shown on the page, and added to their transaction history when
 
 ## Deployed Link/Screenshots
 
-## https://calm-plains-46356.herokuapp.com/
+https://calm-plains-46356.herokuapp.com/
+
+---
 
 ## Commit Early and Often
 
